@@ -1,7 +1,6 @@
-// Optimized UV Config for VØID
 self.__uv$config = {
     prefix: "/uv/service/",
-    bare: "https://uv.student-service.trade/bare/",
+    bare: "https://vultr.terbium.pw/bare/", 
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: "/uv/uv.handler.js",
