@@ -1,4 +1,4 @@
-// This file overwrites the stock UV config.js
+// Optimized UV Config for VØID
 self.__uv$config = {
     prefix: "/uv/service/",
     bare: "https://uv.student-service.trade/bare/",
